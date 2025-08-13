@@ -14,7 +14,7 @@
 
 - 📫 My electronic mail beep-bop beepop is: **parijaat.gaur@gmail.com**
 
-- 📄 Yes, I use Linkedin and don't live under a rock: [www.linkedin.com/in/parijaat-gaur-1188921bb](www.linkedin.com/in/parijaat-gaur-1188921bb)
+- 📄 Yes, I use [Linkedin](www.linkedin.com/in/parijaat-gaur-1188921bb) and don't live under a rock
 
 - BOW DOWN TO YOUR OVERLOOORD!! muhahahahah haha h.. *chokes from sinister laugher* :P
 
