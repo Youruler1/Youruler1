@@ -44,8 +44,8 @@
 <div align="center">
 <br/>
   <!-- First row -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Youruler1&show_icons=true&theme=tokyonight&bg_color=11000000&locale=en&layout=compact" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youruler1&layout=compact&theme=tokyonight&bg_color=11000000" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Youruler1&show_icons=true&theme=tokyonight&bg_color=11000000&locale=en&layout=compact&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youruler1&layout=compact&theme=tokyonight&bg_color=11000000&hide_border=true" height="180" />
 
   <!-- Second row -->
   <br/>
