@@ -16,7 +16,7 @@
 
 - 📄 Yes, I use Linkedin and don't live under a rock: [www.linkedin.com/in/parijaat-gaur-1188921bb](www.linkedin.com/in/parijaat-gaur-1188921bb)
 
-- BOW DOWN TO YOUR OVERLOOORD!! muhahahahah haha h.. *chokes from sinister laugher*
+- BOW DOWN TO YOUR OVERLOOORD!! muhahahahah haha h.. *chokes from sinister laugher* :P
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
