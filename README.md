@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at: [https://github.com/Youruler1](https://github.com/Youruler1)
-
 - 💬 Don't ask me about **Python, C/C++, and JS** (Reverse Psychology)
 
 - 📫 My electronic mail beep-bop beepop is: **parijaat.gaur@gmail.com**
